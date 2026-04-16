@@ -1,3 +1,5 @@
+package IfElse;
+
 import java.util.*;
 public class SalaryBonus {
     public static void main(String[] args){

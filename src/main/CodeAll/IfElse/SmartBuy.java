@@ -1,3 +1,5 @@
+package IfElse;
+
 import java.util.*;
 public class SmartBuy {
     public static void main(String[]args){
